@@ -1,6 +1,6 @@
 # ChatBots
 
-The first chatbot created here uses:
+The first context-based chatbot created here uses:
 
 **nltk** library to process the text, 
 
